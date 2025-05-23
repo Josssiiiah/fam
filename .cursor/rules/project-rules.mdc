@@ -1,0 +1,6 @@
+---
+description: 
+globs: *.tsx
+alwaysApply: false
+---
+I am using the Nativewind styling library which is similar to Tailwind
